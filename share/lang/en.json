@@ -111,7 +111,7 @@
         "sortby": "Sort by",
         "available": "Available columns",
         "configured": "Configured columns",
-        "widths": [ 0, 1, 2, 3 ]
+        "widths": [0, 1, 2, 3]
       },
       "i/e": {
         "_": "Import/Export",
@@ -154,8 +154,7 @@
           "_": "Privacy Policy",
           "list": [
             "If a problem occurs during operation of this program,<br />information for troubleshooting can be sent to the server.",
-            "Collected information is limited to a minimum amount needed to identify the problem:",
-            "* Program Version<br />* Last Combatant Data<br />* Other information collected by ravenjs"
+            "Collected information is limited to a minimum amount needed to identify the problem:"
           ]
         }
       }

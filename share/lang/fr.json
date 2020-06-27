@@ -111,7 +111,7 @@
         "sortby": "Ordre",
         "available": "Colonnes disponibles",
         "configured": "Colonnes actives",
-        "widths": [ 0, 1, 2, 3 ]
+        "widths": [0, 1, 2, 3]
       },
       "i/e": {
         "_": "Import/Export",
@@ -154,8 +154,7 @@
           "_": "Politique privée",
           "list": [
             "Si vous rencontrez un problème lors de l'utilisation de ce programme,<br />Les informations peuvent être envoyées au serveur.",
-            "La collection d'informations se limite au minimum permettant d'identifier le problème :",
-            "* Version<br />* Dernière donnée de combat<br />* Autres informations collectées par ravenjs"
+            "La collection d'informations se limite au minimum permettant d'identifier le problème :"
           ]
         }
       }
@@ -297,8 +296,6 @@
     }
   },
   "skill": {
-    "alias": {
-
-    }
+    "alias": {}
   }
 }

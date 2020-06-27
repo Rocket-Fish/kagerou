@@ -111,7 +111,7 @@
         "sortby": "Sortieren nach",
         "available": "Verfügbare Kategorien",
         "configured": "Ausgewählte Kategorien",
-        "widths": [ 0, 1, 2, 3 ]
+        "widths": [0, 1, 2, 3]
       },
       "i/e": {
         "_": "Importieren/Exportieren",
@@ -154,8 +154,7 @@
           "_": "Privacy Policy",
           "list": [
             "If a problem occurs during operation of this program,<br />information for troubleshooting can be sent to the server.",
-            "Collected information is limited to a minimum amount to identify the problem:",
-            "* Program Version<br />* Last Combatant Data<br />* Other information collected by ravenjs"
+            "Collected information is limited to a minimum amount to identify the problem:"
           ]
         }
       }
@@ -297,9 +296,7 @@
     }
   },
   "skill": {
-    "alias": {
-
-    }
+    "alias": {}
   },
   "_author": "u/tollekarte666"
 }
