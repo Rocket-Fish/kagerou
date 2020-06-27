@@ -515,7 +515,7 @@ const COLUMN_INDEX = {
 
     load() {
       let localConfig = copy(CONFIG_DEFAULT)
-      let rawJson = localStorage.getItem('kagerou_config')
+      let rawJson = localStorage.getItem('kagerou_config_broken_by_fish') // intentionally break this so it will always load defaults
       let o
 
       try {
